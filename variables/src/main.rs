@@ -1,7 +1,7 @@
 fn main() {
     let number = 3;
 
-    if number {
+    if number != 3 {
         println!("condition was true");
     } else {
         println!("condition was false");
